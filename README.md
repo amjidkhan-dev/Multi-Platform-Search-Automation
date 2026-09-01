@@ -1,46 +1,37 @@
-# 🔎 Auto Search Assistant
+# 🔎 Multi-Platform Search Automation
 
-> **A simple Python desktop utility that turns one search query into quick searches across popular platforms.**
+![Project Cover](assets/project-cover.svg)
+
+> **A lightweight Python desktop tool for launching searches across popular platforms from one interface.**
 
 [![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Tkinter](https://img.shields.io/badge/Tkinter-GUI-orange?style=for-the-badge)](https://docs.python.org/3/library/tkinter.html)
 
 ## 🚀 Overview
 
-Auto Search Assistant is a lightweight **Tkinter desktop application** that accepts a user query and opens the relevant search page on **YouTube, Google, or Instagram** with one click.
-
-The project demonstrates Python GUI development, event-driven programming, functions, user input handling, URL construction, and browser integration.
+A simple desktop application built with **Python and Tkinter**. Users enter a query and choose a platform to quickly open the relevant search page in their browser.
 
 ## ✨ Features
 
-- 🎨 Simple desktop GUI
-- 🔎 One input field for search commands
-- ▶️ Search YouTube
-- 🌐 Search Google
-- 📸 Open Instagram profiles
-- 🖱️ Button-based actions
-- 🔗 Automatic browser URL generation
+- 🎨 Clean desktop GUI
+- 🔎 Single search input
+- ▶️ YouTube search
+- 🌐 Google search
+- 📸 Instagram profile search
+- 🔗 Automatic URL generation
+- 🖱️ Simple button-based workflow
 
-## 🧰 Technologies
+## 🧰 Tech Stack
 
-- Python
-- Tkinter
-- `webbrowser`
-- Functions & event-driven callbacks
+**Python · Tkinter · webbrowser · Event-driven programming**
 
-## ⚙️ How It Works
+## ⚙️ Workflow
 
 ```text
-Enter Query
-     ↓
-Select Platform
-     ↓
-Build Search URL
-     ↓
-Open Browser
+Enter Query → Select Platform → Build URL → Open Browser
 ```
 
-## ▶️ Run the Project
+## ▶️ Run
 
 Tkinter is included with most standard Python installations.
 
@@ -48,27 +39,27 @@ Tkinter is included with most standard Python installations.
 python main.py
 ```
 
-## 🧠 What I Practiced
+## 🧠 Skills Demonstrated
 
-- Building a GUI with Tkinter
-- Creating buttons and input fields
-- Connecting UI events to Python functions
-- Working with strings and URLs
-- Opening external browser pages
-- Structuring a small Python application
+- Python GUI development
+- Event-driven programming
+- Functions and callbacks
+- User input handling
+- URL construction
+- Browser integration
 
-## 🔧 Possible Improvements
+## 🔧 Future Improvements
 
-- Add more platforms
-- Add search history
-- Add keyboard shortcuts
-- Improve URL encoding for special characters
-- Add a settings panel
-- Improve UI styling
+- Search history
+- More platforms
+- Keyboard shortcuts
+- Better URL encoding
+- Custom settings
+- Enhanced interface
 
-## 👨‍💻 About Me
+## 👨‍💻 About
 
-I'm **Amjid Khan**, a Python developer focused on **web scraping, Selenium automation, and practical Python projects**.
+**Amjid Khan** — Python developer focused on **web scraping, Selenium automation, and practical Python development**.
 
 - 💼 [LinkedIn](https://linkedin.com/in/amjid-khan-69231a397/)
 - 📧 `contact.amjid.freelancer@gmail.com`
@@ -76,3 +67,5 @@ I'm **Amjid Khan**, a Python developer focused on **web scraping, Selenium autom
 ---
 
 ⭐ **If you find this project useful, consider giving it a star!**
+
+**Built with Python 🐍**
